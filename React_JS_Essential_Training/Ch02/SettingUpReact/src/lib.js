@@ -9,7 +9,7 @@ export const hello = (
         className = "hello">
         {text.hello}
     </h1>
-)
+);
 
 export const goodbye = (
     <h1
@@ -17,4 +17,4 @@ export const goodbye = (
         className = "goodbye">
         {text.goodbye}
     </h1>
-)
+);

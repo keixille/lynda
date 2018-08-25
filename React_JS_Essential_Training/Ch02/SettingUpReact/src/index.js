@@ -8,4 +8,4 @@ render(
 		{goodbye}
 	</div>,
 	document.getElementById("react-container")
-)
+);

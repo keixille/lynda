@@ -1,5 +1,5 @@
 import { Component } from "react"
-import "../stylesheets/ui.scss"
+import "../../stylesheets/ui.scss"
 
 export class SkiDayCount extends Component {
     percentToDecimal(decimal) {

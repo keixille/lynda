@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import { SkiDayCount } from './components/SkiDayCount'
+import { SkiDayCount } from './components/ReactIcon/SkiDayCount'
 
 window.React = React
 

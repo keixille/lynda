@@ -1,4 +1,4 @@
-import '../stylesheets/ui.scss'
+import '../../stylesheets/ui.scss'
 import { MdTerrain as Terrain } from 'react-icons/md'
 import { TiWeatherSnow as SnowFlake } from 'react-icons/ti'
 import { FaCalendar as Calendar } from 'react-icons/fa'

@@ -1,4 +1,4 @@
-import '../stylesheets/ui.scss'
+import '../../stylesheets/ui.scss'
 
 const percentToDecimal = (decimal) => {
     return ((decimal * 100) + '%')

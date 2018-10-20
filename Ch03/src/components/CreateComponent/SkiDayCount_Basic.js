@@ -1,5 +1,5 @@
+import '../../stylesheets/ui.scss'
 import React from 'react'
-import '../stylesheets/ui.scss'
 
 export const SkiDayCount = React.createClass({
     render() {

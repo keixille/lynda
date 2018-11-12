@@ -1,0 +1,16 @@
+-----------------------------------------------------------------
+// To install httpster globally
+npm install -g httpster
+
+// Start httpster
+httpster -p 3000 -d ./public/
+
+// To remove global package
+npm remove -g httpster
+
+-----------------------------------------------------------------
+// To install httpster locally
+npm install httpster
+
+// Start httpster
+./node_modules/.bin/httpster -p 3000 -d ./public/

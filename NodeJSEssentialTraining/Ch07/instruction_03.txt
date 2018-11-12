@@ -1,0 +1,6 @@
+// Package for development
+npm install -g node-dev // Auto restarting server if there is a change in js file
+npm install -g jshint // Give hint for error in js file
+
+// Make jshint ignore ES6 syntax
+/* jshint esnext: true */

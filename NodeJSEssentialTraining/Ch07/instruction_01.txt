@@ -1,0 +1,9 @@
+// To install local package
+npm install underscore
+npm install async
+
+// To remove local package
+npm remove async
+
+// To show list of local package
+npm ls
